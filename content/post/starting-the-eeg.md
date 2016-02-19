@@ -12,7 +12,7 @@ type = "post"
 This post is a few days late, but I needed to get my website up and running before I could make it. The other day, I 
 was finally able to start up the Emotiv EPOC EEG device I will be using for this project and observe my real-time neural
 data. As expected, it was terribly noisy. Though I did learn a few things about the Emotiv software (with little thanks
-to their documentation) and what causes disruptions in the EEG signals. Namely, blinking is extremely easy to detect,
+to their documentation) and what causes disruptions in the EEG signals. Namely, blinking is extremely easy to detect
 and clenching my jaw makes the traces go crazy, so I can't be doing either of those during the actual experiments.
 
 First impressions: this setup is very cool, though I can immediately see why it is of limited use as a control scheme. 
