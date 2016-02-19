@@ -1,0 +1,37 @@
+{{ partial "head.html" . }}
+{{ partial "blog_header.html" . }}
+
+<!-- Page Header -->
+    <header class="blog-header" style="background-image: url('{{ .Site.BaseURL }}/img/blog-bg.jpg')">
+     <div class="container">
+       <div class="row" >
+         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+           <div class="blog-title" >
+             <h1>Blog</h1>
+             <hr class="small">
+             <span class="subheading">Stuff, Etc.</span>
+           </div>
+         </div>
+       </div>
+     </div>
+    </header>
+
+<!-- Post List -->
+<div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          {{ range first 4 (where .Site.Pages "Section" "post") }}
+              {{ .Render "summary" }}
+          {{ end }}
+          <!-- Pager -->
+          <ul class="pager">
+            <li class="next">
+              <a href="{{ .Site.BaseURL }}/post/">Older Posts &rarr;</a>
+            </li>
+          </ul>
+          <br/>
+        </div>
+      </div>
+</div>
+
+{{ partial "footer.html" . }}
