@@ -10,10 +10,10 @@ title = "Building this Site"
 
 +++
 
-I've been wanting to build a website for a while. Mosty just so I know what the process is like, but also to have a place
-to post my work, and I thought that maybe going through all the effort of setting up a blog will motivate me to actually
-use one. The first place I started learning, some time ago, was with codecademy and working through their HTML/CSS modules. 
-Those were pretty interesting as a beginner and introduced some of the concepts, but despite the praise and awards it gave  
+I've been wanting to build a website for a while. Mostly just so I know what the process is like, but also to have a place
+to post my work and I thought that maybe going through all the effort of setting up a blog will motivate me to actually
+use it. The first place I started learning, some time ago, was with codecademy and working through their HTML/CSS modules. 
+Those were pretty interesting as a beginner and introduced some of the concepts, but despite the praise and awards it gave
 for following instructions, there was so much hand-holding that I had very little retention. I certainly didn't feel confident 
 starting from scratch.
 
@@ -22,7 +22,9 @@ to using Visual Studio as a coding environment, and went over the basics of HTML
 and construct my first site using the skills from that class and the [Bootstrap framework](http://getbootstrap.com/). 
 The end result from generally following a template online was this:
 
-![Old site screenshot](/img/old_site.jpg)
+<img src="/img/old_site.jpg" width=100%>
+<br />
+<br />
 
 ...which was ok. Simple, extremely easy to navigate (being only barely taller than the browser window), but with limited
 functionality. I could have added more sections to include things like the "about" and "projects" descriptions that are
