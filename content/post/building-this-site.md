@@ -2,8 +2,9 @@
 
 tags = ["hugo", "git", "github", "html", "css", "website"]
 categories = ["Misc"]
+date = "2016-02-22T10:36:26-05:00"
 description = ""
-draft = true
+draft = false
 type = "post"
 title = "Building this Site"
 

@@ -1,10 +1,12 @@
 +++
 
+date = ""
 tags = []
 categories = []
 description = ""
-draft = true
+draft = false
 type = "post"
+title = ""
 
 +++
 
