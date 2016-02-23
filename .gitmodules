@@ -1,3 +1,3 @@
-[submodule "public/ksarmentrout.github.io"]
-	path = public/ksarmentrout.github.io
+[submodule "public"]
+	path = public
 	url = git@github.com:ksarmentrout/ksarmentrout.github.io.git
