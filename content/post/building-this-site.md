@@ -1,7 +1,7 @@
 +++
 
-tags = [hugo, git, github, html, css, website]
-categories = [Misc]
+tags = ["hugo", "git", "github", "html", "css", "website"]
+categories = ["Misc"]
 description = ""
 draft = true
 type = "post"
