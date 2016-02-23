@@ -12,7 +12,7 @@ title = "Building this Site"
 
 I've been wanting to build a website for a while. Mostly just so I know what the process is like, but also to have a place
 to post my work and I thought that maybe going through all the effort of setting up a blog will motivate me to actually
-use it. The first place I started learning, some time ago, was with codecademy and working through their HTML/CSS modules. 
+use it. The first place I started learning, some time ago, was with Codecademy and working through their HTML/CSS modules. 
 Those were pretty interesting as a beginner and introduced some of the concepts, but despite the praise and awards it gave
 for following instructions, there was so much hand-holding that I had very little retention. I certainly didn't feel confident 
 starting from scratch.
