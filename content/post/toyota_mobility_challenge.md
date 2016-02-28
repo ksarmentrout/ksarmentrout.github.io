@@ -6,7 +6,7 @@ categories = ["Misc"]
 description = ""
 draft = false
 type = "post"
-title = "toyota_mobility_challenge"
+title = "Toyota Mobility Challenge"
 
 +++
 
