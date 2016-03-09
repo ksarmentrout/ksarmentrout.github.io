@@ -308,6 +308,10 @@ p.copyright {
     cursor:not-allowed
 }
 
+.left-pager {
+    float: left;
+}
+
 /*
 .blog-header .site-heading,
 .blog-header .post-heading,
