@@ -3,8 +3,9 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 canonifyurls = true
-builddrafts = false
-baseurl = "http://ksarmentrout.github.io/"
+builddrafts = true
+googleAnalytics = "UA-74899647-1"
+baseurl = "http://ksarmentrout.com"
 languageCode = "en-us"
 title = "Keaton Armentrout"
 
