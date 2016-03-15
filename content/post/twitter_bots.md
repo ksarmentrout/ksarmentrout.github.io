@@ -2,7 +2,7 @@
 
 date = "2016-03-07T22:00:41-05:00"
 tags = ["twitter", "bot", "neural network", "automation", "asoiaf", "game of thrones", "harry potter"]
-categories = ["Projects”, “Misc”]
+categories = ["Projects", "Misc"]
 description = ""
 draft = false
 type = "post"
