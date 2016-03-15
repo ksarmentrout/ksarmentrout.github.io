@@ -16,7 +16,7 @@ you can find me out dancing here in Durham most weeks.
 As I work on projects, I will do my best to prepare updates on [my blog](/blog/home/). There you'll find my current project, an 
 EEG-based control device, with more to come in the future. 
 
-Please feel free to contact me via email or look at my LinkedIn/Github pages with the links below.
+Please feel free to contact me via email or check out my LinkedIn/Github pages with the links below.
 
 I also love traveling! The pictures on this site were taken during my semester abroad at University College London.  
 Top photo: Amsterdam. Bottom photo: Martin-Gropius Bau Museum, Berlin. Blog photo: Primrose Hill, London.
