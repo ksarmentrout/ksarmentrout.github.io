@@ -23,17 +23,21 @@ title = "Keaton Armentrout"
     DateForm = "Jan 2, 2006"
 
 [[params.social]]
-title = "email"
+#title = "email"
 icon = "envelope-o"
 url = "mailto:ksa17@duke.edu"
 [[params.social]]
-title = "github"
+#title = "github"
 icon = "github"
 url = "https://github.com/ksarmentrout"
 [[params.social]]
-title = "linkedin"
+#title = "linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/ksarmentrout"
+[[params.social]]
+#title = "twitter"
+icon = "twitter"
+url = "https://twitter.com/keaton_sa"
 
 [[menu.main]]
     name = "home"
