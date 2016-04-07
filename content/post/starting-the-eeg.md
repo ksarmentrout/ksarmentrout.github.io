@@ -25,6 +25,6 @@ triggered system, and try not to think too hard about starting and stopping it, 
 
 Overall goal for this project: be able to generate and discriminate between two discrete signals (other than neutral 
 baseline). While the end effector is still undetermined, these two signals could be used for something like a left/right
-scheme, or one can be used for on/off.
+scheme, or for on/off.
 
 Big thanks to Jake at [NeuroPlus](http://www.neuropl.us/) for generously allowing me to use one of their EEG headsets!
