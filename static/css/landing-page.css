@@ -57,7 +57,7 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
-#picture-div {
+#img-div {
     position: relative;
 }
 
@@ -69,6 +69,20 @@ h6 {
 
 .img-caption h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+#blog-img-div {
+    position: relative;
+    height: 50px;
+}
+
+.blog-img-caption {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    margin-top: 0px;
+    color: gray;
+    font-size: 8pt; 
 }
 
 @media(max-width:767px) {
@@ -197,7 +211,7 @@ p.copyright {
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
-    margin-bottom:50px;
+    /*margin-bottom:50px;*/
     height: 270px;
 }
 
