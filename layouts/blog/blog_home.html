@@ -2,7 +2,7 @@
 {{ partial "blog_header.html" . }}
 
 <!-- Page Header -->
-    <header class="blog-header" style="background-image: url('{{ .Site.BaseURL }}/img/blog-bg.jpg')">
+    <header class="blog-header" id="img-div" style="background-image: url('{{ .Site.BaseURL }}/img/blog-bg.jpg')">
      <div class="container">
        <div class="row" >
          <div class="col-lg-8 col-lg-offset-2">
@@ -14,10 +14,15 @@
          </div>
        </div>
      </div>
+     <div class="img-caption">
+            <h6>Primrose Hill, London</h6>
+	   </div>
     </header>
+    <!--
     <div id="blog-img-div">
       <h6 class="blog-img-caption">Primrose Hill, London</h6>
     </div>
+    -->
 
 <!-- Post List -->
 <div class="container">
