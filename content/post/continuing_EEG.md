@@ -15,7 +15,7 @@ Despite the huge jump time leap between posts (almost 2 months?) about this EEG 
 whole time. So I'm going to try to make a few smaller posts as sort of a retrospective look at what that process was like.
  This first mini-update gives an overview of EEG and deals with how I first approached getting data from the headset.
  
- When I left the last update, I had just gotten the Emotiv EPOC headset to use and I was able to see the raw data from
+ When I left the last update, I had just gotten the Emotiv EPOC headset to work and I was able to see the raw data from
  the electrodes. Great! The problem was where to start turning those squiggly traces into usable signals.
  
  <br/>
@@ -23,7 +23,7 @@ whole time. So I'm going to try to make a few smaller posts as sort of a retrosp
  <br/>
  <br/>
  
- Above shows the squiggly traces in question. This is TestBench, software made by Emotiv, that shows the real-time input 
+ Above shows the squiggly traces in question. This is TestBench, software made by Emotiv, that shows the real-time output 
  from each of the 16 electrodes. On the left is the electrodes' placement on the head. Each of these electrodes is picking
  up the weak changes in electric potential that are caused by neurons firing in the brain. So yes, an EEG system is reading 
  your mind. But before you get too excited, I have to note that it's still pretty bad at it, for these reasons:
@@ -53,11 +53,11 @@ whole time. So I'm going to try to make a few smaller posts as sort of a retrosp
  that are referred to when monitoring changes in brain activity.  
  
  Some of these changes correspond to mental commands to move. The areas controlling movement in the brain are right on top,
- in the outermost layer of the brain, and they're in pretty much the same spot for everyone, making them good candidates for
+ in the outermost layer of the brain. They're also in pretty much the same spot for everyone, making them good candidates for
  targeting with EEG. One way to use this is through "motor imagery," where instead of actually moving part of your body, 
  you instead just think really hard about it. There have been [a number of projects](https://sites.google.com/site/fabienlotte/pictures-and-videos)
  employing this as a control scheme (outside of this one lab as well, but I think some of those applications are interesting).
- Of course, you could also just physically move part of your body, and that would create a larger signal from the motor cortex,
+ Of course, you could also just physically move part of your body and that would create a larger signal from the motor cortex,
  but it looks a lot less futuristic to be flailing an arm about while using one of these. 
  
  Overall, by describing each of these parts, I've basically outlined my plan for a control scheme. I am discriminating
