@@ -4,7 +4,7 @@ Built using Hugo.
 
 Public site code is [here](https://github.com/ksarmentrout/ksarmentrout.github.io).
 
-See the site live [here](ksarmentrout.github.io).
+See the site live [here](https://ksarmentrout.com).
 
 ### Updating
 
