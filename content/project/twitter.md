@@ -2,7 +2,6 @@
 
 date = "2016-03-08T22:20:30-05:00"
 title = "Twitter Bots"
-Description = ""
 weight = 2
 
 +++
