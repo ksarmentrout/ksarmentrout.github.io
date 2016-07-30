@@ -57,6 +57,19 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
 
+#about {
+    padding-top: 60px;
+    padding-bottom: 0px;
+}
+
+#projects-heading-spacer {
+    padding-bottom: 5px;
+}
+
+#projects {
+    padding-bottom: 25px;
+}
+
 #img-div {
     position: relative;
 }

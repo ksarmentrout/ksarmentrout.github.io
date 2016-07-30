@@ -1,6 +1,6 @@
 +++
 
-weight = 1
+weight = 2
 date = "2016-02-17T12:31:45-05:00"
 title = "EEG Control"
 

@@ -1,7 +1,7 @@
 +++
 date = "2016-07-20T22:10:54-04:00"
 title = "IoT Candy Dispenser"
-weight = 3
+weight = 1
 
 +++
 
