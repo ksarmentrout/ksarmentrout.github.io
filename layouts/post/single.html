@@ -2,9 +2,9 @@
 {{ partial "blog_header.html" . }}
 
     <!-- Page Header -->
-    <!-- Set your background image for this header on the line below. -->
+    <!-- Set background image for this header on the line below. -->
     {{ if isset .Params "image" }}<header class="post-header" style="background-image: url('{{ .Site.BaseURL }}/{{ .Params.image }}')">
-      {{ else }}<header class="post-header" style="background-image: url('{{ .Site.BaseURL }}/img/blog-bg.jpg')">
+      {{ else }}<header class="post-header" style="background-image: url('{{ .Site.BaseURL }}/img/site_backgrounds/blog-bg.jpg')">
     {{ end }}
       <div class="container">
         <div class="row">

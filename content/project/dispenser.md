@@ -5,5 +5,5 @@ weight = 1
 
 +++
 
-Connecting a custom-built candy dispenser with to-do list app APIs via Particle Photon. Hoping to add a little extra 
-incentive to my productivity! In progress, blog posts to come.
+Connected a custom, 3D-printed candy dispenser with to-do list app APIs via Particle Photon. Hoping to add a little extra 
+incentive to my productivity! Read more [here](/post/candy_dispenser).

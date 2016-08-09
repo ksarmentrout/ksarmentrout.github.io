@@ -22,7 +22,7 @@ to using Visual Studio as a coding environment, and went over the basics of HTML
 and construct my first site using the skills from that class and the [Bootstrap framework](http://getbootstrap.com/). 
 The end result from generally following a template online was this:
 
-<img src="/img/old_site.jpg" width=100%>
+<img src="/img/building_site/old_site.jpg" width=100%>
 <br />
 <br />
 

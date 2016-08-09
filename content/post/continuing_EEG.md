@@ -19,7 +19,7 @@ whole time. So I'm going to try to make a few smaller posts as sort of a retrosp
  the electrodes. Great! The problem was where to start turning those squiggly traces into usable signals.
  
  <br/>
- <img src='/img/emotiv_epoc_testbench.png' width=100% float="middle">
+ <img src='/img/eeg/emotiv_epoc_testbench.png' width=100% float="middle">
  <br/>
  <br/>
  
