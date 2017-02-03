@@ -18,13 +18,13 @@ title = "Keaton Armentrout"
 
 [params]
     Author = "Keaton Armentrout"
-    email = "ksa17@duke.edu"
+    email = "keatonarmentrout@gmail.com"
     DateForm = "Jan 2, 2006"
 
 [[params.social]]
 #title = "email"
 icon = "envelope-o"
-url = "mailto:ksa17@duke.edu"
+url = "mailto:keatonarmentrout@gmail.com"
 [[params.social]]
 #title = "github"
 icon = "github"
