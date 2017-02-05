@@ -2,7 +2,7 @@
 date = "2017-02-03T23:00:43-05:00"
 title = "Techstars Week 0"
 categories = ["Techstars"]
-description = ""
+description = "Settling in pre-program"
 draft = false
 tags = ["Techstars", "Python", "entrepreneurship"]
 type = "post"
