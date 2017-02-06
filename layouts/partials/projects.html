@@ -12,14 +12,20 @@
 		<div class="col-lg-8 col-lg-offset-2">
 			<br/>
 			<br/>
-			<h2 class="project-title text-left">{{ .Title }}</h2>
-            <div class="project-subject text-left">
-                {{ .Content }}
+            <div class="col-lg-2">
+                <img src="{{ .Params.image }}" class="img-responsive"
+                style="width: auto; max-height: 100%;"></img>
+            </div>
+            <div class="col-lg-10">
+                <h2 class="project-title text-left" style="margin-top: 0;">{{ .Title }}</h2>
+                <div class="project-subject text-left">
+                    {{ .Content }}
+                </div>
             </div>
 			<br/>
 		</div>
 	</div>
 {{ end }}
-<!-- <hr class="section-heading-spacer"> -->
+ <!--<hr class="section-heading-spacer"> -->
 <br/>
 </section>
