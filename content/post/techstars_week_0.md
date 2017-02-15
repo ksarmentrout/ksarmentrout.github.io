@@ -39,7 +39,7 @@ who so far have inspired myself and the companies to do more, faster.
 
 Reflections from week 0:
 
-* **Success is about continual improvement**
+### Success is about continual improvement
 
 PhDs often have very specific domain knowlege, but can and do get jobs outside of 
 their narrow fields of expertise because they must have acquired a set of 
@@ -54,7 +54,7 @@ necessary to succeed and continue contributing to the company. My 3-month tenure
 here at Techstars is going to be full of learning on the job and rolling with the 
 punches. 
 
-* **Give first**
+### Give first
 
 It seems a bit like a cop-out by naming one of Techstars' main tenets as a 
 takeaway from the week, but it really is a productive and useful mindset to have.   
@@ -77,7 +77,7 @@ do and how best I am able to help them. That connection is a lot more valuable t
 if I had written off the company as not within my area of prior expertise and had 
 thus only superficially gotten to know the founder.
 
-* **Mentorship is extremely valuable**
+### Mentorship is extremely valuable
 
 The first month of Techstars is dubbed "Mentor Madness" because it's centered around
 moving a large volume of local entrepreneurs, VCs, etc. through the doors and talking
@@ -92,7 +92,7 @@ Mentors grant experience (something that young founders lack, almost by definiti
 often connections. Both are invaluable to secure when growing, so seeking a mentor who has
 worked in a relevant field is well worth the time and outreach.
 
-* **Email etiquite matters**
+### Email etiquite matters
 
 One of the first things covered in the workshops was how to ask for an intro. This and
 some of the related lessons made me immediately re-think the job hunting strategy I had 
@@ -102,7 +102,9 @@ Knowing how to close the loop on introductions, write emails with the goal of ma
 the recipient do as little work as possible, and respond after interviews or meetings
 are invaluable skills that aren't generally taught outside of business school.
 
-**Overall** I'm anticipating using this program to make myself more effective in 
+### Overall 
+
+I'm anticipating using this program to make myself more effective in 
 any work environment I find myself in, learn a lot about technical work and the day-to-day
 requirements of a startup, and improve myself based on the mentorship of my peers.
 
