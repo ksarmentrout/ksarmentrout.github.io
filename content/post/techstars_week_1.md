@@ -9,7 +9,9 @@ type = "post"
 
 +++
 
-Phew. I'm writing my week 1 review post on Tuesday night on week 2, which should 
+###Phew. 
+
+I'm writing my week 1 review post on Tuesday night on week 2, which should 
 give an indication of how busy this program is keeping me. 
 
 It all began last Monday! The rest of the teams that hadn't moved in early all arrived

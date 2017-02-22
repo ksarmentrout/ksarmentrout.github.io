@@ -9,11 +9,12 @@ type = "post"
 
 +++
 
-I've shipped up to Boston. I arrived about 10 days ago to take a job as a Data Scientist Associate
+### I've shipped up to Boston. 
+I arrived about 10 days ago to take a job as a Data Scientist Associate
 for the Techstars spring class. I'm hoping to provide a weekly update summarizing
 my experience and the things I've learned. 
 
-So far: Week 0! So called not only because any programmer worth their salt
+So far: **Week 0**! So called not only because any programmer worth their salt
 starts indexing at 0, but also because the program hasn't officially started.
 I've been in the office all week doing work for the early move-in companies
 and getting oriented. 
