@@ -8,7 +8,7 @@ tags = ["Techstars", "startups", "mentorship"]
 type = "post"
 +++
 
-In the previous post, I talked not about the main parts of Mentor Madness, but rather the tools
+In [the previous post](/post/techstars_week_2/), I talked not about the main parts of Mentor Madness, but rather the tools
 I developed in order to make the scheduling more manageable and automated. I've decided that there are so many facets to the Mentor Madness experience that it doesn't make sense to reflect on full weeks. Instead, I'm breaking them up into smaller, thematically related posts. This one is about the things to keep in mind when approaching Mentor Madness (and potentially other mentor meetings as well). 
 
 ---
