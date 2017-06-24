@@ -3,7 +3,7 @@
 date = "2016-03-08T22:20:30-05:00"
 title = "Twitter Bots"
 weight = 3
-image = "img/homepage/python_logo.png"
+image = "img/homepage/Twitter_logo.png"
 
 +++
 
