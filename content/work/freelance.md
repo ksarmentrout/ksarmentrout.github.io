@@ -4,7 +4,7 @@ draft = false
 
 title = "Freelance"
 weight = 1
-image = "img/homepage/python_logo.jpg"
+image = "img/homepage/python_logo.png"
 
 +++
 
